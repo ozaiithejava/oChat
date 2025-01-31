@@ -1,0 +1,8 @@
+net\ozaii\oChat\listeners\ChatListener.class
+net\ozaii\oChat\managers\PlayerChatManager.class
+net\ozaii\oChat\utils\EconSetup.class
+net\ozaii\oChat\utils\LevelCounter.class
+net\ozaii\oChat\managers\DatabaseManager.class
+net\ozaii\oChat\OChat.class
+net\ozaii\oChat\utils\MessageUtils.class
+net\ozaii\oChat\managers\ConfigManager.class

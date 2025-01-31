@@ -1,0 +1,19 @@
+database:
+  host: "localhost"  #sunucu adresi eğer mysql sunucun minecraftın ile aynı ise değiştirme
+  port: 3306         #mysql sunucusunun default portu
+  name: "test"       #mysql sunucusunun ismi
+  username: "root"   #mysql sunucusunun kullanıcı adı
+  password: ""       #mysql kullanıcı şifresi
+  player_messages_table: "oyuncu_mesajlar"   #tablo adı
+
+reawards:
+  levels:
+    10: 100  # Level 10 için 100 coin
+    20: 250  # Level 20 için 250 coin
+    30: 500  # Level 30 için 500 coin
+
+
+
+message:
+  rewards: "&e Heyy &2 @p &eSeviye Atladın ! Seviyen: &c @l &eÖdülün : &c @coins  "
+  # @p => oyuncu adı , @l => oyuncunun mesaj sayısı, @coins => oyuncunun kazandığı ödül miktari ,

@@ -1,0 +1,6 @@
+name: oChat
+version: '1.0-SNAPSHOT'
+main: net.ozaii.oChat.OChat
+api-version: '1.21'
+authors: [ozaiithejava]
+depend: [Vault,PlaceholderAPI]
